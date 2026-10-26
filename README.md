@@ -23,13 +23,13 @@ This repository showcases my projects, technical skills, and experience applying
 
 ## 📂 Featured Projects
 
-### 1. Customer Feedback Analysis
+### 1. Beats by Dre Consumer Analysis
 
 **Tools:** Python, Pandas, NumPy, Excel, Power BI
 
 Analyzed over 3,500 customer feedback records to identify purchasing patterns, product concerns, and customer preferences. Built visualizations to communicate findings and support recommendations.
 
-### 2. Data Collection & Automation
+### 2. University of Rochester Archival Data Collection & Automation
 
 **Tools:** Python, BeautifulSoup, Excel
 
