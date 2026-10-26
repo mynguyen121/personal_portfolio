@@ -1,5 +1,3 @@
-# personal_portfolio
-Personal Portfolio
 # Hi, I'm My! 👋
 
 ### Business Analytics & Data Science Student | Aspiring Data Scientist / Data Analyst
