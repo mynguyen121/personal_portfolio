@@ -35,8 +35,6 @@ Analyzed over 3,500 customer feedback records to identify purchasing patterns, p
 
 Developed a Python-based workflow to automate the extraction and organization of metadata, reducing repetitive manual data-entry work.
 
-*Explore the individual project repositories for details about the methodology, implementation, and findings.*
-
 ## 📈 What You'll Find Here
 
 - Data analysis and visualization projects
