@@ -507,7 +507,7 @@
             <div>
               <article class="exp-detail exp-panel active" data-exp="0">
                 <p class="when">May 2026 – Jul 2026</p>
-                <h3>Data Analytics Assistant</h3>
+                <h3>Data Analyst Intern</h3>
                 <ul>
                   <li>Built a Python/BeautifulSoup workflow to automate extraction for 800+ texts, improving operational efficiency by 20%.</li>
                   <li>Standardized 3 large-scale datasets with 4,800+ records using Excel and OpenRefine.</li>
@@ -620,11 +620,15 @@
       return document.querySelector("header")?.offsetHeight || 72;
     }
     function currentSectionIndex() {
-      const line = headerHeight() + 28;
+      const snapY = headerHeight() + 24;
       let idx = 0;
       snapSections.forEach((section, i) => {
-        if (section.getBoundingClientRect().top - line <= 8) idx = i;
+        const pad = parseFloat(getComputedStyle(section).paddingTop) || 0;
+        if (section.getBoundingClientRect().top + pad <= snapY + 12) idx = i;
       });
+      const atBottom =
+        window.scrollY + window.innerHeight >= document.documentElement.scrollHeight - 8;
+      if (atBottom) idx = snapSections.length - 1;
       return idx;
     }
     function scrollToSection(el) {
