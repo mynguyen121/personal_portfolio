@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-14T06:30:00-05:00",
+  "title": "Design System: My Nguyen",
+  "extensions": {
+    "colorMeta": {
+      "paper-sky": {
+        "role": "neutral",
+        "displayName": "Paper Sky",
+        "canonical": "#f4f9fc",
+        "tonalRamp": ["oklch(15.0% 0.015 233.6)", "oklch(26.4% 0.026 233.6)", "oklch(37.9% 0.038 233.6)", "oklch(49.3% 0.040 233.6)", "oklch(60.7% 0.040 233.6)", "oklch(72.1% 0.040 233.6)", "oklch(83.6% 0.026 233.6)", "oklch(95.0% 0.008 233.6)"]
+      },
+      "cloud-white": {
+        "role": "neutral",
+        "displayName": "Cloud White",
+        "canonical": "#ffffff",
+        "tonalRamp": ["oklch(15.0% 0.000 0.0)", "oklch(26.4% 0.000 0.0)", "oklch(37.9% 0.000 0.0)", "oklch(49.3% 0.000 0.0)", "oklch(60.7% 0.000 0.0)", "oklch(72.1% 0.000 0.0)", "oklch(83.6% 0.000 0.0)", "oklch(95.0% 0.000 0.0)"]
+      },
+      "lake-ink": {
+        "role": "neutral",
+        "displayName": "Lake Ink",
+        "canonical": "#16324a",
+        "tonalRamp": ["oklch(15.0% 0.021 246.7)", "oklch(26.4% 0.036 246.7)", "oklch(37.9% 0.052 246.7)", "oklch(49.3% 0.055 246.7)", "oklch(60.7% 0.055 246.7)", "oklch(72.1% 0.055 246.7)", "oklch(83.6% 0.036 246.7)", "oklch(95.0% 0.011 246.7)"]
+      },
+      "shore-mist": {
+        "role": "neutral",
+        "displayName": "Shore Mist",
+        "canonical": "#5a7388",
+        "tonalRamp": ["oklch(15.0% 0.017 244.1)", "oklch(26.4% 0.029 244.1)", "oklch(37.9% 0.042 244.1)", "oklch(49.3% 0.044 244.1)", "oklch(60.7% 0.044 244.1)", "oklch(72.1% 0.044 244.1)", "oklch(83.6% 0.029 244.1)", "oklch(95.0% 0.009 244.1)"]
+      },
+      "daylight-blue": {
+        "role": "primary",
+        "displayName": "Daylight Blue",
+        "canonical": "#2e7eae",
+        "tonalRamp": ["oklch(15.0% 0.034 239.2)", "oklch(26.4% 0.060 239.2)", "oklch(37.9% 0.086 239.2)", "oklch(49.3% 0.106 239.2)", "oklch(60.7% 0.106 239.2)", "oklch(72.1% 0.106 239.2)", "oklch(83.6% 0.070 239.2)", "oklch(95.0% 0.021 239.2)"]
+      },
+      "soft-cloud": {
+        "role": "secondary",
+        "displayName": "Soft Cloud",
+        "canonical": "#e6f4fb",
+        "tonalRamp": ["oklch(15.0% 0.015 229.0)", "oklch(26.4% 0.026 229.0)", "oklch(37.9% 0.038 229.0)", "oklch(49.3% 0.040 229.0)", "oklch(60.7% 0.040 229.0)", "oklch(72.1% 0.040 229.0)", "oklch(83.6% 0.026 229.0)", "oklch(95.0% 0.008 229.0)"]
+      },
+      "mid-sky": {
+        "role": "secondary",
+        "displayName": "Mid Sky",
+        "canonical": "#5aaad4",
+        "tonalRamp": ["oklch(15.0% 0.031 233.5)", "oklch(26.4% 0.055 233.5)", "oklch(37.9% 0.079 233.5)", "oklch(49.3% 0.100 233.5)", "oklch(60.7% 0.100 233.5)", "oklch(72.1% 0.100 233.5)", "oklch(83.6% 0.066 233.5)", "oklch(95.0% 0.020 233.5)"]
+      },
+      "logo-sky": {
+        "role": "secondary",
+        "displayName": "Logo Sky",
+        "canonical": "#7ec8e8",
+        "tonalRamp": ["oklch(15.0% 0.029 227.4)", "oklch(26.4% 0.051 227.4)", "oklch(37.9% 0.073 227.4)", "oklch(49.3% 0.086 227.4)", "oklch(60.7% 0.086 227.4)", "oklch(72.1% 0.086 227.4)", "oklch(83.6% 0.057 227.4)", "oklch(95.0% 0.017 227.4)"]
+      },
+      "deep-lake": {
+        "role": "tertiary",
+        "displayName": "Deep Lake",
+        "canonical": "#12344c",
+        "tonalRamp": ["oklch(15.0% 0.022 242.7)", "oklch(26.4% 0.039 242.7)", "oklch(37.9% 0.055 242.7)", "oklch(49.3% 0.058 242.7)", "oklch(60.7% 0.058 242.7)", "oklch(72.1% 0.058 242.7)", "oklch(83.6% 0.038 242.7)", "oklch(95.0% 0.012 242.7)"]
+      },
+      "entry-water": {
+        "role": "tertiary",
+        "displayName": "Entry Water",
+        "canonical": "#1f6f9c",
+        "tonalRamp": ["oklch(15.0% 0.034 238.7)", "oklch(26.4% 0.059 238.7)", "oklch(37.9% 0.085 238.7)", "oklch(49.3% 0.103 238.7)", "oklch(60.7% 0.103 238.7)", "oklch(72.1% 0.103 238.7)", "oklch(83.6% 0.068 238.7)", "oklch(95.0% 0.021 238.7)"]
+      },
+      "entry-deep": {
+        "role": "tertiary",
+        "displayName": "Deep Entry",
+        "canonical": "#15577d",
+        "tonalRamp": ["oklch(15.0% 0.033 239.6)", "oklch(26.4% 0.059 239.6)", "oklch(37.9% 0.084 239.6)", "oklch(49.3% 0.089 239.6)", "oklch(60.7% 0.089 239.6)", "oklch(72.1% 0.089 239.6)", "oklch(83.6% 0.058 239.6)", "oklch(95.0% 0.018 239.6)"]
+      },
+      "rain": {
+        "role": "tertiary",
+        "displayName": "Rain",
+        "canonical": "#215777",
+        "tonalRamp": ["oklch(15.0% 0.029 238.3)", "oklch(26.4% 0.051 238.3)", "oklch(37.9% 0.073 238.3)", "oklch(49.3% 0.077 238.3)", "oklch(60.7% 0.077 238.3)", "oklch(72.1% 0.077 238.3)", "oklch(83.6% 0.051 238.3)", "oklch(95.0% 0.015 238.3)"]
+      },
+      "hairline": {
+        "role": "neutral",
+        "displayName": "Sky Hairline",
+        "canonical": "rgba(92, 168, 214, 0.22)",
+        "tonalRamp": ["oklch(15.0% 0.038 237.2)", "oklch(26.4% 0.067 237.2)", "oklch(37.9% 0.096 237.2)", "oklch(49.3% 0.101 237.2)", "oklch(60.7% 0.101 237.2)", "oklch(72.1% 0.101 237.2)", "oklch(83.6% 0.067 237.2)", "oklch(95.0% 0.020 237.2)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Hero name only." },
+      "headline": { "displayName": "Headline", "purpose": "Section titles. The contact line is the same face at a larger clamp." },
+      "title": { "displayName": "Title", "purpose": "Panel headings, role titles, and project names." },
+      "body": { "displayName": "Body", "purpose": "Evidence and biography." },
+      "label": { "displayName": "Label", "purpose": "Uppercase section labels in the left column." }
+    },
+    "shadows": [
+      { "name": "lake-lift", "value": "0 18px 40px rgba(46, 126, 174, 0.1)", "purpose": "Cool lift for floating surfaces. Used under the mobile menu. May sit under cards." },
+      { "name": "entry-cast", "value": "0 10px 24px rgba(31, 111, 156, 0.28)", "purpose": "Tighter cast under the START button." },
+      { "name": "cloud-cast", "value": "0 8px 12px rgba(46, 126, 174, 0.12)", "purpose": "Soft cast under the START-screen clouds." },
+      { "name": "hairline-ring", "value": "0 0 0 1px rgba(92, 168, 214, 0.22)", "purpose": "Active experience tab. A ring, not a lift." }
+    ],
+    "motion": [
+      { "name": "leave", "value": "opacity 0.45s ease", "purpose": "START screen fade after entry." },
+      { "name": "drift", "value": "18s linear", "purpose": "Clouds drift 18px. Sister durations are 20s and 22s." },
+      { "name": "pulse", "value": "1.8s ease-in-out", "purpose": "START button rises 5px and returns." },
+      { "name": "reduced", "value": "prefers-reduced-motion: reduce", "purpose": "Drift, pulse, and the leave fade turn off." }
+    ],
+    "breakpoints": [
+      { "name": "compact", "value": "860px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Lake Ink pill for the main action on the briefing page.",
+      "html": "<button class=\"ds-btn-primary\" type=\"button\">See the work</button>",
+      "css": ".ds-btn-primary { display: inline-flex; align-items: center; padding: 0.78rem 1.15rem; border-radius: 999px; border: 1.5px solid var(--ink); background: var(--ink); color: var(--bg); font-family: \"Plus Jakarta Sans\", sans-serif; font-weight: 800; font-size: 1rem; line-height: 1.2; cursor: pointer; } .ds-btn-primary:hover, .ds-btn-primary:focus-visible { background: var(--blue-deep); border-color: var(--blue-deep); color: var(--bg); }"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "White pill with a Lake Ink stroke, for the second action.",
+      "html": "<button class=\"ds-btn-ghost\" type=\"button\">See my experience</button>",
+      "css": ".ds-btn-ghost { display: inline-flex; align-items: center; padding: 0.78rem 1.15rem; border-radius: 999px; border: 1.5px solid var(--ink); background: var(--bg-elev); color: var(--ink); font-family: \"Plus Jakarta Sans\", sans-serif; font-weight: 800; font-size: 1rem; line-height: 1.2; cursor: pointer; } .ds-btn-ghost:hover, .ds-btn-ghost:focus-visible { border-color: var(--blue-mid); color: var(--blue-deep); }"
+    },
+    {
+      "name": "START Button",
+      "kind": "button",
+      "refersTo": "button-start",
+      "description": "The entry control. Entry Water, wide tracking, a soft pulse.",
+      "html": "<button class=\"ds-btn-start\" type=\"button\">START</button>",
+      "css": ".ds-btn-start { display: inline-flex; align-items: center; justify-content: center; min-width: 180px; padding: 0.95rem 1.8rem; border: 0; border-radius: 999px; background: #1f6f9c; color: #fff; font-family: \"Plus Jakarta Sans\", sans-serif; font-size: 1.15rem; font-weight: 800; letter-spacing: 0.18em; cursor: pointer; box-shadow: 0 10px 24px rgba(31, 111, 156, 0.28); animation: ds-pulse 1.8s ease-in-out infinite; } .ds-btn-start:hover, .ds-btn-start:focus-visible { background: #15577d; outline: 3px solid #fff; outline-offset: 3px; } @keyframes ds-pulse { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } } @media (prefers-reduced-motion: reduce) { .ds-btn-start { animation: none; } }"
+    },
+    {
+      "name": "Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "A tool name. Not a filter and not a button.",
+      "html": "<span class=\"ds-chip\">Python</span>",
+      "css": ".ds-chip { display: inline-flex; align-items: center; border: 1px solid var(--line); background: var(--bg-elev); color: var(--ink); border-radius: 999px; padding: 0.32rem 0.75rem; font-family: \"Plus Jakarta Sans\", sans-serif; font-size: 0.88rem; font-weight: 650; }"
+    },
+    {
+      "name": "Panel",
+      "kind": "card",
+      "refersTo": "panel",
+      "description": "Education and awards block. White at 72% on the sky.",
+      "html": "<article class=\"ds-panel\"><h3>Education</h3><p><strong>University of Rochester</strong></p><p>BA Data Science &amp; BS Business Analytics</p></article>",
+      "css": ".ds-panel { border: 1px solid var(--line); border-radius: 18px; padding: 1.15rem 1.2rem; background: rgba(255, 255, 255, 0.72); font-family: \"Plus Jakarta Sans\", sans-serif; color: var(--ink); max-width: 360px; } .ds-panel h3 { font-family: Fraunces, Georgia, serif; letter-spacing: -0.03em; font-weight: 700; margin: 0 0 0.55rem; } .ds-panel p { color: var(--muted); margin: 0.35rem 0 0; } .ds-panel strong { color: var(--ink); }"
+    },
+    {
+      "name": "Project Row",
+      "kind": "card",
+      "refersTo": "work-card",
+      "description": "A project as a row on the sheet: date, write-up, link.",
+      "html": "<article class=\"ds-work\"><p class=\"ds-work-num\">02 / 2026</p><div><h3>General Mills strategic sourcing</h3><p>Root-cause analysis of travel spend.</p></div><a class=\"ds-work-link\" href=\"#work\">Explore here →</a></article>",
+      "css": ".ds-work { display: grid; grid-template-columns: 120px 1fr auto; gap: 1rem; align-items: start; border: 1px solid var(--line); border-radius: 18px; padding: 1.2rem 1.3rem; background: var(--bg-elev); font-family: \"Plus Jakarta Sans\", sans-serif; color: var(--ink); max-width: 720px; } .ds-work:hover { border-color: var(--blue-mid); } .ds-work-num { margin: 0; font-weight: 800; color: var(--blue-deep); letter-spacing: 0.04em; line-height: 1.35; } .ds-work h3 { font-family: Fraunces, Georgia, serif; letter-spacing: -0.03em; font-weight: 700; margin: 0.15rem 0 0.4rem; } .ds-work p { margin: 0; color: var(--muted); } .ds-work-link { font-weight: 800; color: var(--blue-deep); text-decoration: none; align-self: center; white-space: nowrap; } .ds-work-link:hover, .ds-work-link:focus-visible { text-decoration: underline; }"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "refersTo": "nav-mark",
+      "description": "Sticky bar with the MN mark and section links.",
+      "html": "<div class=\"ds-nav\"><a class=\"ds-mark\" href=\"#top\">MN</a><nav class=\"ds-links\"><a href=\"#about\">About</a><a class=\"is-active\" href=\"#work\">Projects</a></nav></div>",
+      "css": ".ds-nav { display: flex; align-items: center; justify-content: space-between; min-height: 72px; gap: 1rem; padding: 0 1rem; background: rgba(244, 249, 252, 0.86); border-bottom: 1px solid var(--line); backdrop-filter: blur(16px); font-family: \"Plus Jakarta Sans\", sans-serif; } .ds-mark { width: 42px; height: 42px; border-radius: 10px; background: #7ec8e8; color: #12344c; display: grid; place-items: center; font-weight: 800; font-size: 0.85rem; text-decoration: none; } .ds-links { display: flex; gap: 1.35rem; } .ds-links a { color: var(--muted); font-weight: 700; text-decoration: none; } .ds-links a:hover, .ds-links a.is-active, .ds-links a:focus-visible { color: var(--ink); }"
+    },
+    {
+      "name": "Experience Tab",
+      "kind": "custom",
+      "refersTo": "exp-tab-active",
+      "description": "A place name and a role. The active one is a white hairline tile.",
+      "html": "<div class=\"ds-tabs\"><button class=\"ds-tab\" type=\"button\"><strong>University of Rochester</strong>Data Analyst Intern</button><button class=\"ds-tab is-active\" type=\"button\"><strong>Beats by Dre</strong>Data Analyst Extern</button></div>",
+      "css": ".ds-tabs { display: grid; gap: 0.35rem; max-width: 280px; font-family: \"Plus Jakarta Sans\", sans-serif; } .ds-tab { text-align: left; border: 0; background: transparent; padding: 0.75rem 0.7rem; border-radius: 12px; cursor: pointer; color: var(--muted); font: inherit; } .ds-tab strong { display: block; color: var(--ink); } .ds-tab.is-active { background: var(--bg-elev); box-shadow: 0 0 0 1px var(--line); } .ds-tab:hover, .ds-tab:focus-visible { color: var(--ink); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Sky Briefing",
+    "overview": "The Sky Briefing is a pale page that reads as a sheet of findings. A faint sky grid sits behind the type. Fraunces carries the name and the section titles. Plus Jakarta Sans carries the evidence. Decoration stays small: the grid, a hairline, and the clouds at the door.\n\nThe page is calm, airy, and precise. Soft sky first, then the facts. Lake Ink does the reading. Daylight Blue marks the few things that should be touched: the second half of the name, a link, a project number, an icon. The START screen is weather you pass through. Behind it, the page is a document.\n\nDepth is a cool lift, not a gray drop. The shared shadow is a wide, faint lake-blue cast. It sits under the mobile menu, and the same cast may sit under cards. Panels stay white and hairlined so the sheet stays easy to read.",
+    "keyCharacteristics": [
+      "Pale sky ground, lake-ink text, one daylight accent",
+      "Serif for the name and titles, sans for the evidence",
+      "A document first: label column, prose, hairline panels",
+      "Pills only on actions and skill tags",
+      "Cool blue lift, and never a dark dashboard"
+    ],
+    "rules": [
+      {
+        "name": "The Daylight Rule",
+        "body": "Daylight Blue marks a meaning: the emphasized name, a link, a project number, an icon. The paler sky colors are atmosphere. They do not fill a briefing-page button at rest.",
+        "section": "colors"
+      },
+      {
+        "name": "The No Dashboard Rule",
+        "body": "The system stays on Paper Sky. No black canvas, no neon chart colors, no dense instrument panels.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Voices Rule",
+        "body": "Fraunces speaks the name and the section titles. Plus Jakarta Sans speaks the evidence. Body copy does not go in the serif, and the hero name does not go in the sans.",
+        "section": "typography"
+      },
+      {
+        "name": "The One Sheet Rule",
+        "body": "Content sits in a 1120px column. A 180px label column introduces each section, widening to 280px for experience. Below 860px the sheet becomes a single column.",
+        "section": "layout"
+      },
+      {
+        "name": "The Lake Lift Rule",
+        "body": "When a surface lifts, the shadow is `0 18px 40px rgba(46, 126, 174, 0.1)`. It is wide, faint, and lake blue. It may sit under cards. A gray or black drop shadow is out.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Pill Exception Rule",
+        "body": "Fully round corners belong to actions and skill tags. Panels, project rows, tabs, and the MN mark keep their softer corners.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "Do keep the ground on Paper Sky and the reading text in Lake Ink.",
+      "Do use Fraunces for the name and section titles, and Plus Jakarta Sans for the evidence, labels, and buttons.",
+      "Do keep the sheet: a 180px label column, 18px panels, and a 1px sky hairline.",
+      "Do limit pills to buttons and skill tags.",
+      "Do use the lake lift when a surface needs to rise. Cards may take it.",
+      "Do keep Daylight Blue for the emphasized name, links, project numbers, and icons."
+    ],
+    "donts": [
+      "Don't build a dark analytics dashboard: no black canvas, no neon chart colors, no dense instrument panels.",
+      "Don't set the hero name in Plus Jakarta Sans, or the body copy in Fraunces.",
+      "Don't fill briefing-page buttons with Daylight Blue at rest. That color is the hover and the accent.",
+      "Don't add decoration beyond the sky grid, the hairline, and the clouds on the START screen.",
+      "Don't promote the unused `--blue` value (`#89c9e8`) into a new accent. It is declared and paints nothing."
+    ]
+  }
+}
